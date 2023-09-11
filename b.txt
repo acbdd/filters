@@ -1,0 +1,12 @@
+||ux.21cn.com^$important
+||in.appcenter.ms^$important
+||variations.brave.com^$important
+||dutils.com^$important
+||firebaseapp.com^$important
+||firebaseio.com^$important
+||leancloud.cn^$important
+||playfabapi.com^$important
+||scorecardresearch.com^$important
+||sentry.io^$important
+||shujupie.com^$important
+||stat.xtom.com^$important

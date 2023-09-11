@@ -1,0 +1,6 @@
+||geo2.adobe.com^$important
+||avlyun.com^$important
+||cmpassport.com^$important
+||id6.me^$important
+||tmfsdk*.m.qq.com^$important
+||opencloud.wostore.cn^$important
