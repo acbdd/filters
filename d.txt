@@ -1,0 +1,4 @@
+||amap.com^$important
+||autonavi.com^$important
+||map.baidu.com^$important
+||map.qq.com^$important

@@ -1,0 +1,13 @@
+||ux.21cn.com^$important
+||in.appcenter.ms^$important
+||ads.brave.com^$important
+||variations.brave.com^$important
+||dutils.com^$important
+||firebase.io^$important
+||firebaseapp.com^$important
+||firebaseio.com^$important
+||leancloud.cn^$important
+||playfabapi.com^$important
+||shujupie.com^$important
+||tingyun.com^$important
+||stat.xtom.com^$important
